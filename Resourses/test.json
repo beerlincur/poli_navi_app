@@ -1,0 +1,17 @@
+[
+    {
+        "weekday":1,
+        "date":"2020-03-16",
+        "lessons": [ {"name": "first", "number": 1} ]
+    },
+    {
+        "weekday":2,
+        "date":"2020-03-16",
+        "lessons": [ {"name": "second", "number": 2} ]
+    },
+    {
+        "weekday":3,
+        "date":"2020-03-16",
+        "lessons": [ {"name": "third", "number": 3} ]
+    }
+]
